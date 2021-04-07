@@ -1,7 +1,6 @@
 # Created By Assumption University Students
 Mushi Sonthliwal\
-Nutnisa Thongrassamee\
-
+Nutnisa Thongrassamee
 
 # About App
 ![image](https://user-images.githubusercontent.com/74524497/113897031-b33f0c00-97f4-11eb-9e67-95ee98317b26.png)
