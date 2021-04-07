@@ -1,5 +1,4 @@
-# Created By
-Assumption university students\
+# Created By Assumption University Students
 Mushi Sonthliwal\
 ![image](https://user-images.githubusercontent.com/74524497/113897932-948d4500-97f5-11eb-8e5a-d3da0d19c489.png)\
 Nutnisa Thongrassamee\
