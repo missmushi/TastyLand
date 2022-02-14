@@ -11,6 +11,7 @@ TastyLand is a restaurant's table booking web application. The user can see abou
 ![image](https://user-images.githubusercontent.com/74524497/153766172-70d460b9-29f7-4940-8486-fb4273f5384e.png)
 
 On the other hand, the admin can manage the bookings, staff information, and customer membership using CRUD operations. Used Firebase Authentication for admin sign-in. 
+![image](https://user-images.githubusercontent.com/74524497/153808109-d5a8b96c-8c2e-4255-9adc-b20fc2215a02.png)
 ![image](https://user-images.githubusercontent.com/74524497/153805559-0cd94559-b389-45ca-bcd1-f4b7ba7fe090.png)
 ![image](https://user-images.githubusercontent.com/74524497/153807936-21e711e3-7732-42d2-acd7-4c394851fae4.png)
 
