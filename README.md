@@ -9,7 +9,9 @@ Nutnisa Thongrassamee
 ![image](https://user-images.githubusercontent.com/74524497/153766154-837aafc2-f51c-43cf-9923-1a3130bf291f.png)
 ![image](https://user-images.githubusercontent.com/74524497/153766172-70d460b9-29f7-4940-8486-fb4273f5384e.png)
 
-TastyLand is a restaurant's table booking web application. The user can see about, menu, and events of the restaurant and book a table by inputting personal data and numbers of people. On the other hand, the admin can manage the bookings, staff information, and customer membership using CRUD operations.
+TastyLand is a restaurant's table booking web application. The user can see about, menu, and events of the restaurant and book a table by inputting personal data and numbers of people. 
+![image](https://user-images.githubusercontent.com/74524497/153805559-0cd94559-b389-45ca-bcd1-f4b7ba7fe090.png)
+On the other hand, the admin can manage the bookings, staff information, and customer membership using CRUD operations.
 https://tastyland-12b07.web.app/ 
 
 # Used tools
